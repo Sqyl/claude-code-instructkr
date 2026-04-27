@@ -238,6 +238,19 @@ Step 5: 构建会话持久化（保存/恢复任务状态）
 
 ---
 
+## 📚 各阶段详细教学文档
+
+每个阶段都有独立的逐行阅读 + 注释文档，建议按顺序阅读：
+
+| 阶段 | 文档 | 内容 |
+|------|------|------|
+| 阶段一 | [stage-1-basic-concepts.md](stage-1-basic-concepts.md) | 逐行精读全部 9 个源文件 |
+| 阶段二 | [stage-2-architecture-understanding.md](stage-2-architecture-understanding.md) | 数据流追踪、设计模式、模块边界 |
+| 阶段三 | [stage-3-hands-on-implementation.md](stage-3-hands-on-implementation.md) | 5 个动手项目：缓存→依赖→权限→沙箱→持久化 |
+| 阶段四 | [stage-4-deep-dive.md](stage-4-deep-dive.md) | Claude API Tool Use 协议、安全模型、架构对比 |
+
+---
+
 ## 5. 配置指南
 
 Harness 系统的可配置点（基于当前项目可扩展的方向）：
